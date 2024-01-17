@@ -1,7 +1,5 @@
-local M = {}
+local jblack = require("jblack")
 
-function M.colorscheme()
-    print("jblack")
-end
+jblack.colorscheme()
 
-return M
+print("GESOIAETNOASIETNO")

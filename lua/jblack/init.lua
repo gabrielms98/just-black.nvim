@@ -6,4 +6,6 @@ function M.colorscheme()
     print("colorscheme")
 end
 
+M.colorscheme()
+
 return M
